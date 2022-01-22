@@ -1,4 +1,3 @@
-Business Administration student at FEA USP
 
 <div align="center">
   <a href="https://github.com/k-marcelino">
